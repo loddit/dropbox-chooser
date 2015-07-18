@@ -1,0 +1,8 @@
+{
+	"name": "dropbox-dropins.js",
+	"version": "0.0.1",
+	"homepage": "http://www.dropbox.com/developers/dropins",
+	"description": "This repo is a bower wrapper for dropbox dropins JavaScript component.",
+	"main": "dropins.js",
+	"keywords": ["dropbox", "dropins"]
+}
