@@ -1,5 +1,5 @@
 # dropbox-dropins
-A bower wrapper for dropbox dropins JavaScript component.
+A bower/npm wrapper for dropbox dropins JavaScript component.
 
 https://www.dropbox.com/developers/dropins
 
