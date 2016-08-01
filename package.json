@@ -1,5 +1,5 @@
 {
-  "name": "dropbox-dropin",
+  "name": "dropbox-dropins",
   "version": "1.0.0",
   "description": "A npm wrapper for dropbox dropins JavaScript component.",
   "main": "dropins.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/loddit/dropbox-dropin.git"
+    "url": "git+ssh://git@github.com/loddit/dropbox-dropins.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/loddit/dropbox-dropin/issues"
+    "url": "https://github.com/loddit/dropbox-dropins/issues"
   },
-  "homepage": "https://github.com/loddit/dropbox-dropin#readme"
+  "homepage": "https://github.com/loddit/dropbox-dropins#readme"
 }
